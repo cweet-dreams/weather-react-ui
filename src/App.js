@@ -54,7 +54,7 @@ function App() {
           </div>
         
       </div>
-      <small>        <a href="https://github.com/cweet-dreams/weather-app-vanilla"> Open-source code </a> by Svetlana Apolokhova</small>
+      <small>        <a href="https://github.com/cweet-dreams/weather-react-ui"> Open-source code </a> by Svetlana Apolokhova</small>
     </div>
   );
 }
