@@ -41,8 +41,8 @@ export default function forecast() {
         
             {days.map(function(day, index) {
                      return (
-                    <div className="col-2">
-                        <div key={index}>            
+                    <div className="col-2" key={index}>
+                        <div >            
                             <div className="weather-forecast-date">{day.name}</div>
                                 <img  src={day.icon} alt="weather-pic"  width="32"/>
                                 <div className="weather-forecast-temperatures">
