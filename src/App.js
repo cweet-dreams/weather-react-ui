@@ -30,7 +30,7 @@ function App() {
               <img alt="partly_cloudy" src='https://ssl.gstatic.com/onebox/weather/64/sunny.png' />
               <strong>12</strong>
               <span className="units">
-                <a className="active-unit">°C </a>
+                <div className="active-unit">°C </div>
               </span>
 
               <ul className="weather-points">
